@@ -24,7 +24,7 @@ export default function Breadcrumb() {
           <img
             src={item.img.src}
             alt=""
-            className="w-full lg:h-[80vh] h-auto object-cover"
+            className="w-full !lg:h-[80vh] h-auto object-cover"
           />
           <div className="absolute top-0 bottom-0 right-0 left-0 lg:flex flex-col lg:flex-row items-center justify-center gap-2 hidden">
             <div className="w-full flex  item-center lg:justify-end justify-center" data-aos="fade-right">

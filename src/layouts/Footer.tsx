@@ -42,7 +42,7 @@ export default function Footer() {
             <p className='text-white font-semibold tracking-wide'>Designed for Empowering Ladies of all Ages - Experience the Energy of Dance & Unleash Your Strength!.</p>
         </div>
         <div className='w-full flex flex-col items-start justify-start gap-4'>
-        <p className='text-lg text-white font-semibold tracking-wide'>Address: Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium fuga doloremque dolorum minus iste id?</p>
+        <p className='text-lg text-white font-semibold tracking-wide'>Address: LBS nagar, 6th cross, HAL, Bangalore 17</p>
         <p className='text-lg text-white font-semibold tracking-wide'>Email: info@groovehub.in, marketing@groovehub.in </p>
         <p className='text-lg text-white font-semibold tracking-wide'> <a href="tel:8095204712"> Phone: 8095204712</a></p>
         </div>
